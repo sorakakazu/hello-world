@@ -1,3 +1,8 @@
+---
+layout: page
+title: "software Eng. lecture note"
+permalink: /docs/softwareEng2025
+---
 # ソフトウェア工学のまとめ
 ## ソフトウェア工学1
 ソフトウェア工学を学ぶ上での難点
